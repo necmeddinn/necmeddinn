@@ -1,10 +1,19 @@
-# Hi there, I'm Necmeddin! 
+# Hi there, I'm Necmeddin
 
-##  About Me
--  Computer Engineering Student at Erciyes University
--  Passionate about Web Development & AI
--  Specializing in **Java & Python**
+## About Me
+- Computer Engineering student at Erciyes University  
+- Interested in Web Development and AI  
+- Specializing in Java and Python  
 
-##  Current Projects
--  **AI-based Physiotherapy Project** (Pose Estimation & Exercise Accuracy Detection)
--  **Console-based Java Applications** (Learning & Experimenting)
+## Projects
+- UseToolSuite: A web platform that provides 50+ developer tools in one place  
+- AI-based Physiotherapy Project: Exercise accuracy detection using pose estimation  
+- Finance Project: A project focused on financial data tracking and analysis  
+
+## Current Work
+- Improving my skills in Java through algorithm and system design practice  
+- Building real-world projects focused on usability and performance  
+
+## Goals
+- Becoming a strong software engineer  
+- Building scalable and practical software systems  
