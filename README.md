@@ -6,7 +6,7 @@
 - Specializing in Java and Python  
 
 ## Projects
-- UseToolSuite: A web platform that provides 100+ developer tools in one place  
+- UseToolSuite: A web platform that provides 200+ developer tools in one place  
 - AI-based Physiotherapy Project: Exercise accuracy detection using pose estimation  
 - Finance Project: A project focused on financial data tracking and analysis  
 
