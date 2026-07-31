@@ -1,19 +1,60 @@
-# Hi there, I'm Necmeddin
+# Hi there, I'm Necmeddin 👋
 
-## About Me
-- Computer Engineering student at Erciyes University  
-- Interested in Web Development and AI  
-- Specializing in Java and Python  
+**Computer Engineer · AI & Web Application Developer**
 
-## Projects
-- UseToolSuite: A web platform that provides 200+ developer tools in one place  
-- AI-based Physiotherapy Project: Exercise accuracy detection using pose estimation  
-- Finance Project: A project focused on financial data tracking and analysis  
+I build software that ships. My work spans computer vision, deep learning and modern web
+applications — from a TÜBİTAK-supported physiotherapy analysis system to LSTM-based
+financial forecasting models and live web products used by real users.
 
-## Current Work
-- Improving my skills in Java through algorithm and system design practice  
-- Building real-world projects focused on usability and performance  
+🌐 [necmeddincunedioglu.com](https://necmeddincunedioglu.com) &nbsp;·&nbsp;
+💼 [LinkedIn](https://www.linkedin.com/in/necmeddincunedioglu/) &nbsp;·&nbsp;
+📩 [necmeddincunedioglu@gmail.com](mailto:necmeddincunedioglu@gmail.com)
 
-## Goals
-- Becoming a strong software engineer  
-- Building scalable and practical software systems  
+---
+
+## 🚀 Live Products
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[PomoStat](https://pomostat.com/)** | Focus & habit tracking app that combines the Pomodoro technique with an analytics dashboard, making time usage visible through charts. | React · Vite · Supabase · D3.js |
+| **[UseToolSuite](https://usetoolsuite.com/)** | Privacy-first productivity platform — a curated set of tools that run **100% in the browser**, with no data ever leaving the user's device. | JavaScript · Modern UI · SEO |
+
+## 🧠 AI & Research Projects
+
+- **AI-Based Real-Time Physiotherapy Exercise Analysis** *(TÜBİTAK 2209-A supported)*
+  Detects joint landmarks with MediaPipe and evaluates exercise form in real time,
+  giving instant feedback to the patient and remote progress tracking to the physiotherapist.
+  `Python` `Computer Vision` `MediaPipe`
+
+- **NTradeWeb — Stock Price Prediction** *(B.Sc. graduation project)*
+  Predicts the next trading day's closing price for Borsa İstanbul equities using
+  LSTM-based deep learning models, served through a Streamlit interface.
+  `Python` `TensorFlow` `LSTM` `Streamlit`
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · Java · JavaScript · SQL
+**AI / Data:** TensorFlow · MediaPipe · LSTM & time-series modeling · OpenCV
+**Web:** React · Vite · Astro · HTML5 · CSS3 · Supabase · D3.js
+**Tools:** Git · Streamlit · REST APIs
+
+## 🌱 Currently Working On
+
+- Growing PomoStat and UseToolSuite as real products — performance, SEO and usability
+- Privacy-first product design: processing data on the client side wherever possible
+- Deepening my backend and system design skills alongside applied machine learning
+
+## 🎯 Goals
+
+- Turn ideas into scalable, production-grade software systems
+- Build products that solve real problems for real users, not just demos
+- Keep pushing at the intersection of artificial intelligence and web engineering
+
+---
+
+<p align="center">
+  <a href="https://necmeddincunedioglu.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/necmeddincunedioglu/">LinkedIn</a> ·
+  <a href="https://x.com/necmeddin_1">X</a> ·
+  <a href="https://www.youtube.com/@necmeddin_1">YouTube</a>
+</p>
